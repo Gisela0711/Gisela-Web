@@ -1,6 +1,6 @@
 # ¡Hola, soy Gisela Jeremias Meza! 👋  
 
-![Foto de perfil](https://github.com/Gisela0711/MiPortafolio.github.io/blob/main/WhatsApp%20Image%202024-12-15%20at%205.57.18%20PM.jpeg)
+![Foto de perfil](https://github.com/Gisela0711/Gisela-Web/blob/main/PRIMERA%20FOTO.jpeg)
 
 ¡Hola! 
 Soy Gisela Jeremias Meza, una entusiasta estudiante de Ingeniería de Sistemas e Informática. Actualmente trabajo en la Marina de Guerra del Perú, pero mi pasión por la tecnología me lleva a explorar y aprender sobre desarrollo de software, redes y seguridad informática.
